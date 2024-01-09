@@ -13,7 +13,7 @@ The course reserves update process happens in four phases:
 
 Each step of the process can be initiated separately by running the Alma-Course-Updater.py script and supplying the respective user input. The function that handles each step includes code that double-checks for the presence of a given course, reading list, or citation before moving forward with updating that particular element in Alma, so the functions can be run each time a course change occurs or a new textbook is purchased for a given course.
 
-**Complete These Steps Before Running This Script**
+**Complete These Steps To Update Course Data in Alma**
 
 1) Download this repository to your local directory.
 2) Update the courses_config.py file with your local variables.
