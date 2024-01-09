@@ -1,3 +1,5 @@
+# This dictionary serves as a crosswalk between the academic departments listed in the BN College citations list
+# and the academic department codes listed in Alma. These will likely be different for each institution.
 codes_dict = {'Art and Architectural History': 'AAH-65',
               'Architecture': 'ARCH-35',
               'AS': "AS",
